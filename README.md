@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Luca Di Rienzo
 I am an aspiring software developer and ideally looking to work as a graduate or entry-level in this arena. 
+
 I've successfully completed my 3 year Statistics degree at the University of Nottingham where I excelled and thoroughly enjoyed my scientific computation modules the most. The coursework was the perfect challenge that allowed me to enhance my programming skills and I learned a lot through trying different methods and optimising the code. 
+
 After University, I enrolled in an AiCore DevOps Engineering skills boot camp. With this, I learned how to streamline software delivery, automation, collaboration, continuous integration, deployment, infrastructure as code, and a culture of continuous improvement.
 
 Skills: Python / R / Matlab / Docker / Kubernetes / Terraform / Azure / DevOps
